@@ -1,0 +1,19 @@
+.main-nav__trigger {
+    position: absolute;
+
+    right: 15px;
+    top: 0;
+}
+
+.main-nav {
+    display: none;
+    padding: 0;
+    margin: 0;
+
+    list-style: none;
+}
+
+@media screen and (min-width: $mqmd) {
+    .main-nav__trigger { display:none; }
+    .main-nav { display: block;}
+}

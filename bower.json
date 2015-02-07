@@ -1,0 +1,17 @@
+{
+  "name": "Website Seed",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Arminmsg/Website-Seed",
+  "authors": [
+    "Armin <hello@arminmesic.com>"
+  ],
+  "description": "Website Seed",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
