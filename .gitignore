@@ -1,5 +1,7 @@
 node_modules
 bower_components
 /.sass_cache
+/.sass_cache/
+/.sass_cache/*
 dev/*.css
 dist/*.css
